@@ -1,4 +1,6 @@
 <h1>Cara menggunakan:</h1>
+
+<ol> git clone -b abp_booking_lapang https://github.com/auliardana/abp_booking-lapang.git ABP </ol>
 <ol>-start xampp</ol>
 
 <ol>-create database pada phpmyadmin dengan nama : db_laraproject</ol>
