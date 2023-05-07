@@ -1,0 +1,2 @@
+untuk menyimpan data didatabase yang telah dibuat di seeders CreateUserSeeder
+php artisan db:seed --class=CreateUserSeeder
