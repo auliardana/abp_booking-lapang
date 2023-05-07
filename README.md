@@ -66,7 +66,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
-
+<p>
 Cara menggunakan:
 -start xampp
 -create database pada phpmyadmin dengan nama : db_laraproject
@@ -84,3 +84,4 @@ pass: 123456
 (admin)
 email : admin@admin.com
 pass : 123456
+</p>
