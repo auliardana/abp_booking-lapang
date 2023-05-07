@@ -64,3 +64,23 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+Cara menggunakan:
+-start xampp
+-create database pada phpmyadmin dengan nama : db_laraproject
+-rename .env.example jadi .env
+-tulis pada terminal 
+php artisan migrate:fresh --seed 
+atau
+php artisan migrate:fresh --seed --seeder=CreateUserSeeder
+
+-php artisan serve
+-login dengan 
+(user)
+email : user@user.com
+pass: 123456
+(admin)
+email : admin@admin.com
+pass : 123456
